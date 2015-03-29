@@ -1,0 +1,110 @@
+﻿body {
+
+#Comments{
+    height: 350px;
+    width: 350;
+}
+#contactbutton{
+    align-content: center;
+    
+}
+#buttonhome{
+    color:cyan;
+}
+#buttonport{
+    color:indigo;
+}
+
+.col-md-6 column{
+    margin-bottom: 140px;
+}
+
+#navbarheaderhome {
+    display: block;
+    align-items:center;
+
+}
+
+#navbarheaderelse{
+    align-items:center;
+}
+
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-header{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+ 
+ #filloutform {
+     min-height: 12em;
+     display: table-cell;
+     vertical-align: middle;
+ }
+ .form-group{
+     min-height:12em;
+     display: table-cell;
+     vertical-align: middle;
+ }
+
+ #submission{
+    display: block;
+     margin-left: auto;
+     margin-right:auto;
+
+ }
+ #aboutme{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ #grewupsection{
+     justify-content:center;
+ }
+
+ #grewuptop{
+     display: block;
+     margin-left:auto;
+     margin-right:auto;
+ }
+ 
+ #state{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align:center;
+ }
+
+ 
+ #hobbiestop{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ #hobbiesbottom{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align:center;
+ }
+
+ 
+ #worktop{
+ display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ 
+ #workbottom{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align:center;
+ }
